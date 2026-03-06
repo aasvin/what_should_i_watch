@@ -12,7 +12,7 @@ The agent should ask the user for the following input
 
 
 ## Strict Rules - YOU MUST FOLLOW THESE RULES
-1 - If it's after 9 PM, do not select content with gore or violence
+1 - If it's after 10 PM, do not select content with gore or violence
 2 - If the content is rated "R" or "MA" or if it's for mature audiences, then you need to confirm with the user that it's ok to show the title. There might be kids in the room 
 3 - If they have more than 3 hours, then suggest a movie to watch instead of a binge worth TV show. 
 
