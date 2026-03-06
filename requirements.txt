@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This scraper uses AppleScript via subprocess to control Chrome on macOS.
